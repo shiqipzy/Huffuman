@@ -42,7 +42,7 @@ int main()
 			if (p != reverse.end())
 			{
 				r += (*p).second;
-				i = j - 1;
+				i = j ;
 				break;
 			}
 		}
